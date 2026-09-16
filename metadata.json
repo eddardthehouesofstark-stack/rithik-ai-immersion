@@ -1,0 +1,6 @@
+{
+  "name": "StitchGrid - Garment Workforce & Peak Crunch Dispatch",
+  "description": "On-demand skilled labor network and production line optimizer for garment factories facing peak season labour shortages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
